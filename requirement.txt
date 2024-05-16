@@ -3,6 +3,7 @@ openai
 streamlit
 PyPDF2
 pypdf
+langchain_community
 pinecone-client
 python-dotenv
 faiss-cpn
