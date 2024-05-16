@@ -2,6 +2,8 @@ langchain
 openai 
 streamlit
 PyPDF2
+pypdf
+pinecone-client
 python-dotenv
 faiss-cpn
 openai
